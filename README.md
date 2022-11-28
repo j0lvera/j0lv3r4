@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Follow me on <a rel="me" href="https://mas.pub/@jolvera">Mastodon</a>
+
 <!--
 **j0lv3r4/j0lv3r4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
